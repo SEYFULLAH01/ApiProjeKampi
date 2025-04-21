@@ -11,6 +11,7 @@ builder.Services.AddDbContext<ApiContext>();
 builder.Services.AddScoped<IValidator<Product>, ProductValidator>();
 builder.Services.AddAutoMapper(Assembly.GetExecutingAssembly());
 
+
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
