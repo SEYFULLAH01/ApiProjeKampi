@@ -1,0 +1,62 @@
+[
+  {
+    "nameSurname": "Elif Yýldýz",
+    "title": "Gastronomi Uzmaný",
+    "comment": "Sunumlar harikaydý, lezzetler ise adeta bir sanat eseri gibiydi. Þefin emeði takdire þayan.",
+    "imageUrl": "test"
+  },
+  {
+    "nameSurname": "Mert Aslan",
+    "title": "Yemek Bloggerý",
+    "comment": "Tatlýlardan ana yemeklere kadar her þey kusursuzdu. Özellikle kuzu tandýr unutulmazdý!",
+    "imageUrl": "test"
+  },
+  {
+    "nameSurname": "Ayþe Demir",
+    "title": "Müþteri",
+    "comment": "Ambiyansý çok beðendim. Ailemle geçirdiðim en keyifli akþamlardan biriydi.",
+    "imageUrl": "test"
+  },
+  {
+    "nameSurname": "Serkan Koç",
+    "title": "Lezzet Eleþtirmeni",
+    "comment": "Menü seçkisi oldukça dengeliydi. Deniz ürünleri taze ve ustalýkla hazýrlanmýþtý.",
+    "imageUrl": "test"
+  },
+  {
+    "nameSurname": "Gizem Uslu",
+    "title": "Influencer",
+    "comment": "Görsel sunumlar Instagram’a yakýþýr güzellikteydi! Lezzet ve estetik bir arada.",
+    "imageUrl": "test"
+  },
+  {
+    "nameSurname": "Burak Karaca",
+    "title": "Yemek Fotoðrafçýsý",
+    "comment": "Fotoðraf çekmeye doyamadým! Þýk sunumlarýn yanýnda sýcak ve samimi bir ortam vardý.",
+    "imageUrl": "test"
+  },
+  {
+    "nameSurname": "Melis Aksoy",
+    "title": "Ziyaretçi",
+    "comment": "Fiyat performans açýsýndan mükemmel. Özellikle öðle menüleri çok avantajlý.",
+    "imageUrl": "test"
+  },
+  {
+    "nameSurname": "Baran Tuncel",
+    "title": "Kurumsal Müþteri",
+    "comment": "Ýþ yemekleri için ideal bir mekan. Sessiz, elit ve servis hýzý çok iyi.",
+    "imageUrl": "test"
+  },
+  {
+    "nameSurname": "Seda Karaman",
+    "title": "Beslenme Uzmaný",
+    "comment": "Vejetaryen ve saðlýklý seçeneklerin olmasý çok hoþuma gitti. Lezzetten ödün verilmemiþ.",
+    "imageUrl": "test"
+  },
+  {
+    "nameSurname": "Alp Yýlmaz",
+    "title": "Yemek Yazarý",
+    "comment": "Klasik tatlara modern dokunuþlar yapýlmýþ. Menüdeki özgünlük dikkat çekiciydi.",
+    "imageUrl": "test"
+  }
+]
