@@ -16,7 +16,7 @@ namespace ApiProjeKampi.WebApi.Controllers
         }
 
         [HttpGet]
-        public IActionResult ChefList()
+        public IActionResult CehfList()
         {
             var values = _context.Chefs.ToList();
             return Ok(values);
